@@ -1,0 +1,4 @@
+# ninja log v5
+0	13585	1756969100035726868	/mnt/hdd1/zmt/jyy/Satellites_3DGS/submodules/simple-knn/build/temp.linux-x86_64-cpython-37/simple_knn.o	f043a84c319f23f5
+0	23384	1756969109827997848	/mnt/hdd1/zmt/jyy/Satellites_3DGS/submodules/simple-knn/build/temp.linux-x86_64-cpython-37/ext.o	7ab0dad49df0ae15
+0	52049	1756969138500785455	/mnt/hdd1/zmt/jyy/Satellites_3DGS/submodules/simple-knn/build/temp.linux-x86_64-cpython-37/spatial.o	f84ee0f402079aa2
